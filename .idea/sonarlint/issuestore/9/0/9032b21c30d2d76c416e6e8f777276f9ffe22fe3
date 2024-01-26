@@ -1,0 +1,15 @@
+
+E
+java:S1604 "(Make this anonymous inner class a lambda(ÉãÃ®8ý®õ…Ô1
+E
+java:S1604)"(Make this anonymous inner class a lambda(ÉãÃ®8ý®õ…Ô1
+G	java:S106"+Replace this use of System.out by a logger.(ûÕ…ø8…¯õ…Ô1
+L	java:S106"+Replace this use of System.out by a logger.(Ê¨ŠÇùÿÿÿÿ8†¯õ…Ô1
+]	java:S125#"<This block of commented-out lines of code should be removed.(éóôßøÿÿÿÿ8Š¯õ…Ô1
+X	java:S125%"<This block of commented-out lines of code should be removed.(ûå‚‚8‹¯õ…Ô1
+X	java:S125,"<This block of commented-out lines of code should be removed.(Í°üË8Œ¯õ…Ô1
+X	java:S125."<This block of commented-out lines of code should be removed.(ß¼«8Œ¯õ…Ô1
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð18Œ¯õ…Ô1
+`
+java:S1128">Remove this unused import 'org.example.dataStructures.Person'.(ï™®™ûÿÿÿÿ8Œ¯õ…Ô1

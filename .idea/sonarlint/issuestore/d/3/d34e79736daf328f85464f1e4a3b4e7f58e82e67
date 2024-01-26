@@ -1,0 +1,8 @@
+
+[
+java:S5993"9Change the visibility of this constructor to "protected".(ïè•úÿÿÿÿ8‹Ÿ‰ÜÑ1
+L	java:S106!"+Replace this use of System.out by a logger.(©›¬©ùÿÿÿÿ8éíıÜÑ1
+G	java:S106,"+Replace this use of System.out by a logger.(œ–‹8ìíıÜÑ1
+L	java:S1061"+Replace this use of System.out by a logger.(ôµ½ûüÿÿÿÿ8Ó×¬İÑ1
+I
+java:S1144",Remove this unused private "setName" method.(ˆËŠ¯8‘Ÿ‰ÜÑ1

@@ -1,0 +1,13 @@
+
+v
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(†ö¹8âï¦Ò1
+J
+java:S1199 "-Extract this nested code block into a method.(¼•‘8¥ÇâÒ1
+{
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¼•‘8´ÇâÒ1
+L	java:S106"+Replace this use of System.out by a logger.(’Î®±şÿÿÿÿ8µÇâÒ1
+F	java:S106"+Replace this use of System.out by a logger.(­¶ 8·ÇâÒ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ë›¶‚üÿÿÿÿ8·ÇâÒ1
+G	java:S106 "+Replace this use of System.out by a logger.(¼•‘8¸ÇâÒ1
+L	java:S106!"+Replace this use of System.out by a logger.(ßÆ²‹ıÿÿÿÿ8¨¹«Ò1

@@ -1,0 +1,15 @@
+
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8³´Ò1
+L	java:S106"+Replace this use of System.out by a logger.(·¿Âûıÿÿÿÿ8³´Ò1
+L	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8´´Ò1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8´´Ò1
+W
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8´´Ò1
+`
+java:S1128"CRemove this unused import 'java.util.concurrent.atomic.AtomicLong'.(Ì™º¢8´´Ò1
+Y
+java:S1128"<Remove this unused import 'java.util.concurrent.locks.Lock'.(µÒÌÿ8´´Ò1
+b
+java:S1128"ERemove this unused import 'java.util.concurrent.locks.ReentrantLock'.(òªø8´´Ò1

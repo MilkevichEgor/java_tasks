@@ -1,0 +1,14 @@
+
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78²Ðé„Ó1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÚÅ¹øÿÿÿÿ8ÝŸé„Ó1
+]	java:S125"<This block of commented-out lines of code should be removed.(ŸŸ¹¢úÿÿÿÿ8ç‡°„Ó1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ç±¬‰8ç‡°„Ó1
+h
+java:S1128"KRemove this unused import 'java.util.concurrent.atomic.AtomicIntegerArray'.( •ÈÏ8ÞŸé„Ó1
+e
+java:S1128"HRemove this unused import 'java.util.concurrent.atomic.AtomicReference'.(×‡µó8ç‡°„Ó1
+b
+java:S1128"ERemove this unused import 'java.util.concurrent.locks.ReentrantLock'.(òªø8Ùûè„Ó1
+`
+java:S1128">Remove this unused import 'org.example.dataStructures.Person'.(ï™®™ûÿÿÿÿ8è‡°„Ó1

@@ -1,0 +1,40 @@
+
+a
+java:S2259–"CA "NullPointerException" could be thrown; "other" is nullable here.(Í¶üÉ8‡ë©¾Ñ1
+]	java:S125"<This block of commented-out lines of code should be removed.(î—°µøÿÿÿÿ8Šë©¾Ñ1
+]	java:S125"<This block of commented-out lines of code should be removed.(æ–ùÑüÿÿÿÿ8Šë©¾Ñ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ã¹áÜ8‹ë©¾Ñ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÃŞÆ†8‹ë©¾Ñ1
+]	java:S125#"<This block of commented-out lines of code should be removed.(óÕ‹äüÿÿÿÿ8‹ë©¾Ñ1
+]	java:S1253"<This block of commented-out lines of code should be removed.(’¨Áúıÿÿÿÿ8‹ë©¾Ñ1
+]	java:S125@"<This block of commented-out lines of code should be removed.(±Ğµßşÿÿÿÿ8‹ë©¾Ñ1
+]	java:S125B"<This block of commented-out lines of code should be removed.(¼Ö‰Àûÿÿÿÿ8‹ë©¾Ñ1
+]	java:S125M"<This block of commented-out lines of code should be removed.(‡àÃİøÿÿÿÿ8‹ë©¾Ñ1
+]	java:S125T"<This block of commented-out lines of code should be removed.(ôÚ–­ùÿÿÿÿ8‹ë©¾Ñ1
+]	java:S125^"<This block of commented-out lines of code should be removed.(”½ñéùÿÿÿÿ8‹ë©¾Ñ1
+]	java:S125d"<This block of commented-out lines of code should be removed.(ĞÔªşÿÿÿÿ8‹ë©¾Ñ1
+]	java:S125o"<This block of commented-out lines of code should be removed.(œû‰–şÿÿÿÿ8‹ë©¾Ñ1
+n
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8Œë©¾Ñ1
+M	java:S106Š"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8ë©¾Ñ1
+=
+java:S2097"Add a type test to this method.(ÜÑã8ë©¾Ñ1
+Y	java:S125’"<This block of commented-out lines of code should be removed.(â˜³8ë©¾Ñ1
+I
+java:S2160Ÿ"+Override the "equals" method in this class.(ãÆç›8ë©¾Ñ1
+Y
+java:S1128"7Remove this unused import 'java.security.SecureRandom'.(›éè™úÿÿÿÿ8ë©¾Ñ1
+T
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8ë©¾Ñ1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8ë©¾Ñ1
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8ë©¾Ñ1
+\
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8ë©¾Ñ1
+C
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8ë©¾Ñ1
+`
+java:S1128	">Remove this unused import 'org.example.dataStructures.Person'.(ï™®™ûÿÿÿÿ8ë©¾Ñ1
+G
+java:S1068 ")Remove this unused "color" private field.(È„…¦8ë©¾Ñ1
