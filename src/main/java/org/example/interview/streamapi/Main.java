@@ -1,4 +1,4 @@
-package org.example.streamapi;
+package org.example.interview.streamapi;
 
 import java.io.IOException;
 import java.nio.charset.Charset;

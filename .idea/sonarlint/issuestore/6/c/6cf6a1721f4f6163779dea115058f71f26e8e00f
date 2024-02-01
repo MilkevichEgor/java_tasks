@@ -1,0 +1,41 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(ĞÕÕ 8¡©ò£Õ1
+j
+java:S1192"MDefine a constant instead of duplicating this literal "Ğ›Ğ¾Ğ½Ğ´Ğ¾Ğ½" 3 times.(•‹Í¬8àÕ”¤Õ1
+h
+java:S1192"KDefine a constant instead of duplicating this literal "ĞŸĞ°Ñ€Ğ¸Ğ¶" 3 times.(•‹Í¬8àÕ”¤Õ1
+j
+java:S1192"MDefine a constant instead of duplicating this literal "ĞœĞ°Ğ´Ñ€Ğ¸Ğ´" 3 times.(•‹Í¬8àÕ”¤Õ1
+T
+java:S3958"2Refactor the code so this stream pipeline is used.(ˆÍîôúÿÿÿÿ8˜È¸¤Õ1
+^
+java:S1854$"ARemove this useless assignment to local variable "citiesStream2".(ŞŞÿ8êÕ”¤Õ1
+b
+java:S1854"@Remove this useless assignment to local variable "citiesStream".(ÚÂ°†úÿÿÿÿ8ëêû£Õ1
+\
+java:S1854":Remove this useless assignment to local variable "stream".(ˆÍîôúÿÿÿÿ8°«÷£Õ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÒÍñ¿8²«÷£Õ1
+S
+java:S1481"1Remove this unused "citiesStream" local variable.(ÚÂ°†úÿÿÿÿ8îêû£Õ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÒÚè·ıÿÿÿÿ8îêû£Õ1
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(‚¤Á8Ï€û£Õ1
+G	java:S106"+Replace this use of System.out by a logger.(‚¤Á8¥çú£Õ1
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ƒş¥î8İªû£Õ1
+G	java:S106"+Replace this use of System.out by a logger.(ƒş¥î8¦çú£Õ1
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(‹©ó¤şÿÿÿÿ8Şªû£Õ1
+L	java:S106"+Replace this use of System.out by a logger.(‹©ó¤şÿÿÿÿ8¦çú£Õ1
+O
+java:S1481$"2Remove this unused "citiesStream2" local variable.(ŞŞÿ8ïÕ”¤Õ1
+\
+java:S1612'"@Replace this lambda with method reference 'System.out::println'.(¾Š”e8ïÕ”¤Õ1
+F	java:S106'"+Replace this use of System.out by a logger.(¾Š”e8ïÕ”¤Õ1
+b
+java:S1612*"@Replace this lambda with method reference 'System.out::println'.(¦§ÿõşÿÿÿÿ8ğÕ”¤Õ1
+L	java:S106*"+Replace this use of System.out by a logger.(¦§ÿõşÿÿÿÿ8ğÕ”¤Õ1
+]
+java:S1612-"@Replace this lambda with method reference 'System.out::println'.(šäÒÌ8ñÕ”¤Õ1
+G	java:S106-"+Replace this use of System.out by a logger.(šäÒÌ8ñÕ”¤Õ1

@@ -13,15 +13,15 @@ public class RemoveDuplicates {
   public static void main(String[] args) {
 
     RemoveDuplicates main = new RemoveDuplicates();
-//    main.removeDuplicates(main.array);
+//    main.removeDuplicates(main.nums);
     main.removeDuplicates2(main.nums);
   }
 
   public int removeDuplicates(int[] nums) {
 
-    HashSet<Integer> set = Arrays.stream(nums).collect(HashSet::new, HashSet::add, HashSet::addAll);
-    set.stream().forEach(System.out::println);
-	return set.size();
+    nums = Arrays.stream(nums).distinct().toArray();
+    System.out.println(Arrays.toString(nums));
+	return nums.length;
   }
 
   public int removeDuplicates2(int[] nums) {

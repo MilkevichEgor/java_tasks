@@ -1,0 +1,6 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(¸ßä¢8»¿‡²Ô1
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ƒ°®úÿÿÿÿ8¼¿‡²Ô1
+G	java:S106"+Replace this use of System.out by a logger.(Ë±Ü‡8¼¿‡²Ô1
+L	java:S106"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8¼¿‡²Ô1

@@ -1,0 +1,11 @@
+
+i
+java:S3973#"GUse indentation to denote the code conditionally executed by this "if".(ûœ±Åùÿÿÿÿ8±í¥¢Õ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Åß»Ê8¹í¥¢Õ1
+U
+java:S1854"8Remove this useless assignment to local variable "user".(çÛ•¢8£·§¢Õ1
+G	java:S106"+Replace this use of System.out by a logger.(âÂ¤ˆ8¼í¥¢Õ1
+G	java:S106"+Replace this use of System.out by a logger.(†æÃÔ8¼í¥¢Õ1
+F
+java:S1481")Remove this unused "user" local variable.(çÛ•¢8¥·§¢Õ1

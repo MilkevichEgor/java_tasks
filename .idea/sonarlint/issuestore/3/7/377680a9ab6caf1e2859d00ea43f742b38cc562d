@@ -1,0 +1,9 @@
+
+i
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(ûœ±Åùÿÿÿÿ8èÕÅ¡Õ1
+L
+java:S1611"/Remove the parentheses around the "n" parameter(ãÀâû8óÕÅ¡Õ1
+G	java:S106	"+Replace this use of System.out by a logger.(‚Ğ¥¿8ôÕÅ¡Õ1
+L
+java:S1611"/Remove the parentheses around the "n" parameter(ä‡‹í8Œ¡Ú¡Õ1
+L	java:S106"+Replace this use of System.out by a logger.(¯í™½øÿÿÿÿ8¡Ú¡Õ1

@@ -11,8 +11,6 @@ b
 2src/main/java/org/example/dataStructures/Main.java,a/4/a46c5db22353b9f23a64689d1fbbeda71e8793a2
 d
 4src/main/java/org/example/dataStructures/Person.java,f/8/f8b188ecb3ba687ed38e82c97bb2a90476c72319
-]
--src/main/java/org/example/streamapi/Main.java,2/5/25b685a12b93d78dbae23b06795824e5c3380320
 L
 src/test/java/TestClass.java,6/b/6be141d872f01fabc0aa47dcfac0eba5e30ab76e
 _
@@ -45,7 +43,23 @@ e
 5src/main/java/org/example/interview/tasks/TwoSum.java,d/a/dae69c308a583b5ebddef1c88be621cb51b16d19
 o
 ?src/main/java/org/example/interview/tasks/PalindromeNumber.java,9/6/96096f86e9f35cbd32b44ff8c2c4f3f4a59d54b6
-r
-Bsrc/main/java/org/example/interview/tasks/MergeTwoSortedLists.java,b/1/b14747a1a4e8ea6956c9a349ce2cbb6bd254e83d
 o
 ?src/main/java/org/example/interview/tasks/RemoveDuplicates.java,7/3/73e70753a979112c0d4b9e92cef1176809031c4c
+g
+7src/main/java/org/example/interview/streamapi/Main.java,c/7/c7eec344123e9aebaf1d56aeb6c8075bc9cd6978
+q
+Asrc/main/java/org/example/interview/lambdafunction/LambdaApp.java,3/3/33cbd4bde41a50addb574be2928194d082ec4c3d
+r
+Bsrc/main/java/org/example/interview/lambdafunction/LambdaApp2.java,3/7/377680a9ab6caf1e2859d00ea43f742b38cc562d
+r
+Bsrc/main/java/org/example/interview/lambdafunction/LambdaApp3.java,3/e/3ebba418906b56c803e5db8dc67bf3137b1f0ddd
+r
+Bsrc/main/java/org/example/interview/lambdafunction/LambdaApp4.java,5/5/5530edf4a22cbc343867bbc22f5cd55f4c7c0de6
+z
+Jsrc/main/java/org/example/interview/streamapi/StreamApiCreateExamples.java,6/c/6cf6a1721f4f6163779dea115058f71f26e8e00f
+u
+Esrc/main/java/org/example/interview/streamapi/StreamApiOperation.java,6/f/6f7708de2f03c7d4c8ab2ecbec3e7afae107a7c2
+r
+Bsrc/main/java/org/example/interview/streamapi/StreamApiSorted.java,7/4/747758e4f850feb4ab369cbc672fd31624edad85
+r
+Bsrc/main/java/org/example/interview/tasks/LongestCommonPrefix.java,4/a/4aa73973f8b061e0007a197039e92cb2c8847d12
