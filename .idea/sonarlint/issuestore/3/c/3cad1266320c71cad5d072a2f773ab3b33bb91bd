@@ -1,0 +1,10 @@
+
+U
+java:S1854	"8Remove this useless assignment to local variable "str1".(âùº‘8ÓÒÉ½Ø1
+F
+java:S1481	")Remove this unused "str1" local variable.(âùº‘8ÔÒÉ½Ø1
+L	java:S106"+Replace this use of System.out by a logger.(µéÌğüÿÿÿÿ8ÖÒÉ½Ø1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÏµÌ½Ø1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÏµÌ½Ø1
