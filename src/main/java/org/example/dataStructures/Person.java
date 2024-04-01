@@ -9,11 +9,13 @@ public class Person {
   private String secondName;
   private int age;
   private String profession;
-  private List<String> friends;
+  private List<Pet> friends;
 
   public Person() {}
 
-  public Person(String firstName, String secondName, int age, String profession, List<String> friends) {
+  public Person(String firstName, String secondName,
+                int age, String profession,
+                List<Pet> friends) {
     this.firstName = firstName;
     this.secondName = secondName;
     this.age = age;
@@ -37,7 +39,7 @@ public class Person {
     return profession;
   }
 
-  public List<String> getFriends() {
+  public List<Pet> getFriends() {
     return friends;
   }
 

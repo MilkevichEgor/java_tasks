@@ -1,104 +1,104 @@
 
-e
-java:S1192!"JDefine a constant instead of duplicating this literal "Developer" 3 times.(ãÀŸ´ûÿÿÿÿ
-a
-java:S1192 "FDefine a constant instead of duplicating this literal "Banas" 6 times.(úÁ¼”ıÿÿÿÿ
-a
-java:S1192 "FDefine a constant instead of duplicating this literal "Derek" 6 times.(úÁ¼”ıÿÿÿÿ
-d
-java:S1192ç"NDefine a constant instead of duplicating this literal "Is parallel: " 3 times.(È«
+’
+java:S1192""JDefine a constant instead of duplicating this literal "Developer" 3 times.(ãÀŸ´ûÿÿÿÿ8ÁÜ×Ëè1J$ae3df092-60c8-45e2-b924-63bc289c4259
+
+java:S1192!"FDefine a constant instead of duplicating this literal "Banas" 5 times.(úÁ¼”ıÿÿÿÿ8ÁÜ×Ëè1J$930b0bc0-8219-481d-a7dc-a3deaf6d2eb9
+
+java:S1192!"FDefine a constant instead of duplicating this literal "Derek" 6 times.(úÁ¼”ıÿÿÿÿ8ÁÜ×Ëè1J$a3c82ff6-1d21-443e-bd3c-ab8b2d2ae7b4
+‘
+java:S1192ë"NDefine a constant instead of duplicating this literal "Is parallel: " 3 times.(È«8ÁÜ×Ëè1J$ba51440e-45f9-4283-976b-6ec2df2c9d70
+“
+java:S1192§"JDefine a constant instead of duplicating this literal "Reduced: " 6 times.(ŠùíÚûÿÿÿÿ8ÁÜ×Ëè1J$a79e480e-5042-478f-aca5-f268fd14f2bf
 f
-java:S1192£"JDefine a constant instead of duplicating this literal "Reduced: " 6 times.(ŠùíÚûÿÿÿÿ
-_
-java:S2095h"DUse try-with-resources or close this "Stream" in a "finally" clause.(Ì³›õıÿÿÿÿ
-Z
-java:S2095i"DUse try-with-resources or close this "Stream" in a "finally" clause.(­©‚·
-M
-java:S3958u"2Refactor the code so this stream pipeline is used.(¹ìòÆüÿÿÿÿ
-G
-java:S3958f"2Refactor the code so this stream pipeline is used.(ñØ÷n
-I
-java:S3958ê"2Refactor the code so this stream pipeline is used.(æ—£
-Z
-java:S1854½">Remove this useless assignment to local variable "anyElement".(à¶ë³şÿÿÿÿ
-Z
-java:S1854{"ERemove this useless assignment to local variable "personListIterate".(Ã¢±o
-]
-java:S1854u"BRemove this useless assignment to local variable "streamGenerate".(¹ìòÆüÿÿÿÿ
-V
-java:S1854r"ARemove this useless assignment to local variable "streamBuilder".(°â½6
-U
-java:S1854o"?Remove this useless assignment to local variable "streamArray".(Åà†
-U
-java:S1854n"?Remove this useless assignment to local variable "streamArray".(ì•±»
-\
-java:S1854i"FRemove this useless assignment to local variable "streamWithChareset".(­©‚·
-^
-java:S1854h"CRemove this useless assignment to local variable "streamOfStrings".(Ì³›õıÿÿÿÿ
-T
-java:S1854f"?Remove this useless assignment to local variable "streamPaths".(ñØ÷n
-@	java:S1062"+Replace this use of System.out by a logger.(åùå†
-@	java:S1066"+Replace this use of System.out by a logger.(Û“¢×
-E	java:S1068"+Replace this use of System.out by a logger.(™´ßŸşÿÿÿÿ
-?	java:S106<"+Replace this use of System.out by a logger.(œæö
-E	java:S106>"+Replace this use of System.out by a logger.(£Œ²²ùÿÿÿÿ
-@	java:S106@"+Replace this use of System.out by a logger.(ñĞÓ
-@	java:S106D"+Replace this use of System.out by a logger.(¾í˜”
-@	java:S106F"+Replace this use of System.out by a logger.(Ñ²™¤
-E	java:S106O"+Replace this use of System.out by a logger.(Ö²ú‡ÿÿÿÿÿ
-E	java:S106T"+Replace this use of System.out by a logger.(‡¨¨øÿÿÿÿ
-V	java:S125T"<This block of commented-out lines of code should be removed.(‡¨¨øÿÿÿÿ
-E	java:S106X"+Replace this use of System.out by a logger.(îèÇØÿÿÿÿÿ
-V	java:S125W"<This block of commented-out lines of code should be removed.(½ÄÌûÿÿÿÿ
-@	java:S106\"+Replace this use of System.out by a logger.(ªÃÂƒ
-Q	java:S125["<This block of commented-out lines of code should be removed.(·Šûƒ
-@	java:S106a"+Replace this use of System.out by a logger.(í¼Œá
-L
-java:S1612f"7Replace this lambda with method reference 'Paths::get'.(ñØ÷n
-E
-java:S1481f"0Remove this unused "streamPaths" local variable.(ñØ÷n
-O
-java:S1481h"4Remove this unused "streamOfStrings" local variable.(Ì³›õıÿÿÿÿ
+java:S2095i"DUse try-with-resources or close this "Stream" in a "finally" clause.(Ì³›õıÿÿÿÿ8ì×ˆÄé1
+a
+java:S2095j"DUse try-with-resources or close this "Stream" in a "finally" clause.(­©‚·8ì×ˆÄé1
 P
-java:S4719i":Replace Charset.forName() call with StandardCharsets.UTF_8(­©‚·
-M
-java:S1481i"7Remove this unused "streamWithChareset" local variable.(­©‚·
-V	java:S125j"<This block of commented-out lines of code should be removed.(æõ¸Âûÿÿÿÿ
-F
-java:S1481n"0Remove this unused "streamArray" local variable.(ì•±»
-G
-java:S1481r"2Remove this unused "streamBuilder" local variable.(°â½6
+java:S3958î"2Refactor the code so this stream pipeline is used.(æ—£8î×ˆÄé1
+T
+java:S3958v"2Refactor the code so this stream pipeline is used.(¹ìòÆüÿÿÿÿ8î×ˆÄé1
 N
-java:S1481u"3Remove this unused "streamGenerate" local variable.(¹ìòÆüÿÿÿÿ
-@	java:S106y"+Replace this use of System.out by a logger.(Øîê‹
-K
-java:S1481{"6Remove this unused "personListIterate" local variable.(Ã¢±o
-F	java:S106€"+Replace this use of System.out by a logger.(ƒŒº‚üÿÿÿÿ
-A	java:S106‰"+Replace this use of System.out by a logger.(”ÿö
-F	java:S106‹"+Replace this use of System.out by a logger.(Ì†®ñıÿÿÿÿ
-F	java:S106"+Replace this use of System.out by a logger.(·íšüùÿÿÿÿ
-A	java:S106"+Replace this use of System.out by a logger.(Âµú
-F	java:S106’"+Replace this use of System.out by a logger.(“ˆ¼ùÿÿÿÿ
-F	java:S106—"+Replace this use of System.out by a logger.(ù°Ü™üÿÿÿÿ
-F	java:S106"+Replace this use of System.out by a logger.(‡îÁÂùÿÿÿÿ
-F	java:S106£"+Replace this use of System.out by a logger.(ŠùíÚûÿÿÿÿ
-A	java:S106§"+Replace this use of System.out by a logger.(ÊÄÙô
-A	java:S106«"+Replace this use of System.out by a logger.(©×àİ
-A	java:S106®"+Replace this use of System.out by a logger.(ÏáÎ¦
-F	java:S106±"+Replace this use of System.out by a logger.(Ê¼‹Ùÿÿÿÿÿ
-A	java:S106µ"+Replace this use of System.out by a logger.(‚ó¿’
-A	java:S106¸"+Replace this use of System.out by a logger.(øâ÷Î
-K
-java:S1481½"/Remove this unused "anyElement" local variable.(à¶ë³şÿÿÿÿ
-F	java:S106Å"+Replace this use of System.out by a logger.(»·£áùÿÿÿÿ
-A	java:S106Æ"+Replace this use of System.out by a logger.(ò¶¯Ñ
-A	java:S106Ì"+Replace this use of System.out by a logger.(¯ê§
-A	java:S106Ñ"+Replace this use of System.out by a logger.( Ë¹Ì
-A	java:S106Ö"+Replace this use of System.out by a logger.(ŸØŞş
-A	java:S106Ù"+Replace this use of System.out by a logger.(ÌÊé°
-A	java:S106Ü"+Replace this use of System.out by a logger.(èœü¤
-F	java:S106à"+Replace this use of System.out by a logger.(éïòøÿÿÿÿ
-@	java:S106ç"+Replace this use of System.out by a logger.(È«
-A	java:S106è"+Replace this use of System.out by a logger.(ìÂÈ
-F	java:S106ì"+Replace this use of System.out by a logger.(¢¡êÌüÿÿÿÿ
-A	java:S106ğ"+Replace this use of System.out by a logger.(×ÿ©®
+java:S3958g"2Refactor the code so this stream pipeline is used.(ñØ÷n8î×ˆÄé1
+‡
+java:S1854Á">Remove this useless assignment to local variable "anyElement".(à¶ë³şÿÿÿÿ8ÉÜ×Ëè1J$0a095795-ca44-4b58-936e-b1a453506aed
+‡
+java:S1854|"ERemove this useless assignment to local variable "personListIterate".(Ã¢±o8ÉÜ×Ëè1J$e6a48f7f-00c4-4081-9f42-d9900f259897
+Š
+java:S1854v"BRemove this useless assignment to local variable "streamGenerate".(¹ìòÆüÿÿÿÿ8ÉÜ×Ëè1J$e3f98bd3-bf66-4282-98ad-6e8d638750d2
+ƒ
+java:S1854s"ARemove this useless assignment to local variable "streamBuilder".(°â½68ÉÜ×Ëè1J$6d968de4-cf56-4a8f-beea-aeec39b72981
+‚
+java:S1854p"?Remove this useless assignment to local variable "streamArray".(Åà†8ÉÜ×Ëè1J$609475ee-1292-4ca5-b7cf-ac7379a6495d
+‚
+java:S1854o"?Remove this useless assignment to local variable "streamArray".(ì•±»8ÉÜ×Ëè1J$6d9704dc-30e2-40da-9cb6-92f290879b4a
+‰
+java:S1854j"FRemove this useless assignment to local variable "streamWithChareset".(­©‚·8ÉÜ×Ëè1J$500ca74f-f15d-4d78-a262-e3aa78cde509
+‹
+java:S1854i"CRemove this useless assignment to local variable "streamOfStrings".(Ì³›õıÿÿÿÿ8ÉÜ×Ëè1J$d5a4fd35-ed62-4c41-858d-32aaee09b202
+
+java:S1854g"?Remove this useless assignment to local variable "streamPaths".(ñØ÷n8ÉÜ×Ëè1J$fd7d664a-9645-4aac-a8f5-922fff1d8742
+m	java:S1063"+Replace this use of System.out by a logger.(åùå†8ÎÜ×Ëè1J$a17b0dee-44ad-45c3-b06f-28a8143cc1b4
+m	java:S1067"+Replace this use of System.out by a logger.(Û“¢×8ÎÜ×Ëè1J$501ec67b-83e8-462d-92ff-af57e7cbbe00
+r	java:S1069"+Replace this use of System.out by a logger.(™´ßŸşÿÿÿÿ8ÎÜ×Ëè1J$2271df58-569f-4f97-80e4-fdd1855a65a5
+l	java:S106="+Replace this use of System.out by a logger.(œæö8ĞÜ×Ëè1J$9ae9a9b1-e1b0-4bad-912b-2dd58da88ca3
+r	java:S106?"+Replace this use of System.out by a logger.(£Œ²²ùÿÿÿÿ8ĞÜ×Ëè1J$d15b7811-53a0-4976-bcd1-95e8606af1c3
+m	java:S106A"+Replace this use of System.out by a logger.(ñĞÓ8ĞÜ×Ëè1J$4fd30892-1358-4fb3-9372-db52094dd8c5
+m	java:S106E"+Replace this use of System.out by a logger.(¾í˜”8ÑÜ×Ëè1J$b669cad9-d447-4ed2-b5a7-9b81c7167865
+m	java:S106G"+Replace this use of System.out by a logger.(Ñ²™¤8ÑÜ×Ëè1J$9e1fb372-8921-4e45-84e7-bac907791e04
+r	java:S106P"+Replace this use of System.out by a logger.(Ö²ú‡ÿÿÿÿÿ8ÒÜ×Ëè1J$8a806c3c-a273-4481-94b2-aacb9d808d6d
+r	java:S106U"+Replace this use of System.out by a logger.(‡¨¨øÿÿÿÿ8ÒÜ×Ëè1J$668193de-d4e2-49c3-a230-282c8a84ccd9
+ƒ	java:S125U"<This block of commented-out lines of code should be removed.(‡¨¨øÿÿÿÿ8ÓÜ×Ëè1J$ccbcc77c-c31f-4f1d-b00c-bc2fd5ff06f0
+r	java:S106Y"+Replace this use of System.out by a logger.(îèÇØÿÿÿÿÿ8ÓÜ×Ëè1J$bdc0c922-0577-4d30-8260-93ea36f99ccd
+ƒ	java:S125X"<This block of commented-out lines of code should be removed.(½ÄÌûÿÿÿÿ8ÔÜ×Ëè1J$384eaaea-89e8-41ab-9d96-0a14c42b3d1c
+m	java:S106]"+Replace this use of System.out by a logger.(ªÃÂƒ8ÔÜ×Ëè1J$b365ae9b-0502-4bbf-b51b-9fc2552aa6af
+~	java:S125\"<This block of commented-out lines of code should be removed.(·Šûƒ8ÔÜ×Ëè1J$ae1cc2e3-518b-43fa-8699-35a8a89cb0cc
+m	java:S106b"+Replace this use of System.out by a logger.(í¼Œá8ÕÜ×Ëè1J$ef778abe-802f-4d57-a065-aff614aa8fc4
+y
+java:S1612g"7Replace this lambda with method reference 'Paths::get'.(ñØ÷n8ÖÜ×Ëè1J$88a7631c-455c-4ce5-96d2-06a5b98fcea5
+r
+java:S1481g"0Remove this unused "streamPaths" local variable.(ñØ÷n8ÖÜ×Ëè1J$84a9379c-304b-450d-b976-a735dc3c0862
+|
+java:S1481i"4Remove this unused "streamOfStrings" local variable.(Ì³›õıÿÿÿÿ8×Ü×Ëè1J$a0a78620-94c3-47be-87a8-afb1dcfcd6d5
+}
+java:S4719j":Replace Charset.forName() call with StandardCharsets.UTF_8(­©‚·8×Ü×Ëè1J$53f62a23-e661-4707-9fec-1254db4ddbe0
+z
+java:S1481j"7Remove this unused "streamWithChareset" local variable.(­©‚·8ØÜ×Ëè1J$ca58c960-83f2-4315-8698-ea7be9252693
+ƒ	java:S125k"<This block of commented-out lines of code should be removed.(æõ¸Âûÿÿÿÿ8ØÜ×Ëè1J$a99121aa-4782-43e5-943e-d3a73799efb6
+s
+java:S1481o"0Remove this unused "streamArray" local variable.(ì•±»8ØÜ×Ëè1J$705e6814-14fc-42c6-93db-eb25f368f0a0
+t
+java:S1481s"2Remove this unused "streamBuilder" local variable.(°â½68ÙÜ×Ëè1J$7b9994e8-1136-4e48-a66a-e6bce05b6072
+{
+java:S1481v"3Remove this unused "streamGenerate" local variable.(¹ìòÆüÿÿÿÿ8ÙÜ×Ëè1J$d2207772-8d5a-4f6d-8241-b46b55455a74
+m	java:S106z"+Replace this use of System.out by a logger.(Øîê‹8ÙÜ×Ëè1J$4a3cec19-4c38-4276-b828-a352d7d44fe2
+x
+java:S1481|"6Remove this unused "personListIterate" local variable.(Ã¢±o8ÙÜ×Ëè1J$0874b2d0-eac1-475b-8551-7b35be2f4d03
+s	java:S106„"+Replace this use of System.out by a logger.(ƒŒº‚üÿÿÿÿ8ÚÜ×Ëè1J$680e0436-e76b-4c72-80ba-98dccc1adb10
+n	java:S106"+Replace this use of System.out by a logger.(”ÿö8ÛÜ×Ëè1J$2a56937b-50b3-4e2c-ab50-ec3737d2133d
+s	java:S106"+Replace this use of System.out by a logger.(Ì†®ñıÿÿÿÿ8ÛÜ×Ëè1J$a11a8657-037b-4669-9d84-904711421da4
+s	java:S106‘"+Replace this use of System.out by a logger.(·íšüùÿÿÿÿ8ÜÜ×Ëè1J$d7100089-5393-47f6-a65b-1d8503ef0742
+n	java:S106”"+Replace this use of System.out by a logger.(Âµú8ÜÜ×Ëè1J$4157c68e-65a7-48c6-9c04-b177d4f3a9aa
+s	java:S106–"+Replace this use of System.out by a logger.(“ˆ¼ùÿÿÿÿ8İÜ×Ëè1J$61169819-b258-4b61-99ad-d1305fe6f342
+s	java:S106›"+Replace this use of System.out by a logger.(ù°Ü™üÿÿÿÿ8İÜ×Ëè1J$00a03786-551f-4d6e-904a-0085435d9714
+s	java:S106¢"+Replace this use of System.out by a logger.(‡îÁÂùÿÿÿÿ8İÜ×Ëè1J$6716eb6f-80a3-4049-b277-d39b3151f988
+s	java:S106§"+Replace this use of System.out by a logger.(ŠùíÚûÿÿÿÿ8ŞÜ×Ëè1J$65370ca5-b128-4ca3-b0a9-1ec2dae7e0d5
+n	java:S106«"+Replace this use of System.out by a logger.(ÊÄÙô8ŞÜ×Ëè1J$6a0c7473-89a0-43fe-9f76-dc77913d76e5
+n	java:S106¯"+Replace this use of System.out by a logger.(©×àİ8ßÜ×Ëè1J$9a1275cc-0b79-467b-80bd-c5599d89f611
+n	java:S106²"+Replace this use of System.out by a logger.(ÏáÎ¦8ßÜ×Ëè1J$805729d4-2ffc-4e0e-83aa-c0b8996a8f6f
+s	java:S106µ"+Replace this use of System.out by a logger.(Ê¼‹Ùÿÿÿÿÿ8àÜ×Ëè1J$c1c6d99e-e1ca-4a3b-afa3-d3cded2402dc
+n	java:S106¹"+Replace this use of System.out by a logger.(‚ó¿’8àÜ×Ëè1J$509f0813-abe0-45de-bbfb-2ef8dde37552
+n	java:S106¼"+Replace this use of System.out by a logger.(øâ÷Î8àÜ×Ëè1J$40896566-24b6-4b09-b597-0742a138963e
+x
+java:S1481Á"/Remove this unused "anyElement" local variable.(à¶ë³şÿÿÿÿ8áÜ×Ëè1J$b45eb86f-4b0e-4634-ba4c-e1d456dd3feb
+s	java:S106É"+Replace this use of System.out by a logger.(»·£áùÿÿÿÿ8áÜ×Ëè1J$0b73994e-c7eb-4800-b5a3-b280c16c3f9d
+n	java:S106Ê"+Replace this use of System.out by a logger.(ò¶¯Ñ8âÜ×Ëè1J$167a04c0-c923-4ae2-9367-e89140c90301
+n	java:S106Ğ"+Replace this use of System.out by a logger.(¯ê§8âÜ×Ëè1J$256a02c0-e27f-4fed-ac55-3d4716199529
+n	java:S106Õ"+Replace this use of System.out by a logger.( Ë¹Ì8ãÜ×Ëè1J$2299e3ba-2d5c-4300-8930-f62f73dc8c9b
+n	java:S106Ú"+Replace this use of System.out by a logger.(ŸØŞş8ãÜ×Ëè1J$0f8e93cc-6b95-414d-a5c1-e8e0b183afae
+n	java:S106İ"+Replace this use of System.out by a logger.(ÌÊé°8äÜ×Ëè1J$a419441c-a983-440e-b7ca-c76d8a825351
+n	java:S106à"+Replace this use of System.out by a logger.(èœü¤8äÜ×Ëè1J$9caa31cd-e39a-4491-be2c-8eb73aae521c
+s	java:S106ä"+Replace this use of System.out by a logger.(éïòøÿÿÿÿ8åÜ×Ëè1J$7142e1d1-2cc6-46d8-b677-596578dbf2aa
+m	java:S106ë"+Replace this use of System.out by a logger.(È«8åÜ×Ëè1J$a0fd1cb1-37b8-4ad5-a3f3-45c698fc0b51
+n	java:S106ì"+Replace this use of System.out by a logger.(ìÂÈ8åÜ×Ëè1J$40b1dd58-9b03-4980-93c9-c29977252655
+s	java:S106ğ"+Replace this use of System.out by a logger.(¢¡êÌüÿÿÿÿ8æÜ×Ëè1J$357b60a6-b861-43fe-a8fa-f450cd6542cd
+n	java:S106ô"+Replace this use of System.out by a logger.(×ÿ©®8æÜ×Ëè1J$888cd836-60c3-4a07-8b4f-30ac34957f59

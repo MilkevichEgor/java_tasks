@@ -19,7 +19,7 @@ public class Main {
   }
   public static void main(String[] args) {
       count = 0;
-      System.out.println("fibonacci(" + 50 + ") = " + fibonacci(50));
+      System.out.println("fibonacci(" + 50 + ") = " + fibonacci(9));
       System.out.println("count = " + count);
     }
 }

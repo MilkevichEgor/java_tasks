@@ -23,6 +23,7 @@ import java.util.stream.IntStream;
 import java.util.stream.LongStream;
 import java.util.stream.Stream;
 import org.example.dataStructures.Person;
+import org.example.dataStructures.Pet;
 
 public class Main {
 
@@ -121,9 +122,12 @@ public class Main {
       streamIterated.forEach(System.out::println);
 
       List<Person> personListIterate = new ArrayList<>();
+      List<Pet> petList = List.of(new Pet("Derek",  12,"Dog"));
+
       personList.add(new Person(
-          "Derek", "Banas", 33, "Developer", new ArrayList<>(List.of("Derek", "Banas"))));
-      Stream<String> streamProfession
+          "Derek", "Banas", 33, "Developer", petList));
+
+      Stream<Pet> streamProfession
           = personList.stream().flatMap(person -> person.getFriends().stream()); // ["Derek", "Banas"]
       streamProfession.forEach(System.out::println);
 

@@ -1,0 +1,41 @@
+
+‚
+java:S1854":Remove this useless assignment to local variable "person".(¼Ê€Ãıÿÿÿÿ8ø±ÃÍè1J$7d2e7e32-0ade-4138-9bc5-188462413e63
+s
+java:S1481"+Remove this unused "person" local variable.(¼Ê€Ãıÿÿÿÿ8ù±ÃÍè1J$461c3891-4a2a-473c-9a81-b3902040e114
+ƒ
+java:S1854Z";Remove this useless assignment to local variable "letters".(”ó¾¶øÿÿÿÿ8“ÖÄÍè1J$52bbb40a-0860-45cc-ae66-2830a8ab8d5e
+{
+java:S1854M"8Remove this useless assignment to local variable "ages".(õ™Òó8ú±ÃÍè1J$fb08c252-ec45-44dc-a6ca-00544c72f88c
+ƒ
+java:S1854L";Remove this useless assignment to local variable "numbers".(·¶ğüÿÿÿÿ8ú±ÃÍè1J$2791034b-c677-4ce5-a9cb-72a4a66feecd
+®
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(‡Ä¤8ú±ÃÍè1J$7c924c6f-e195-4560-9832-f659d1abd300
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(é±®³şÿÿÿÿ8û±ÃÍè1J$c2182375-d57b-42ca-8170-fe7284459984
+ƒ	java:S125#"<This block of commented-out lines of code should be removed.(ËÁ€ıÿÿÿÿ8û±ÃÍè1J$230f8d9b-16a4-4100-a7f2-985eb0a78148
+~	java:S125+"<This block of commented-out lines of code should be removed.(Åô‘ì8û±ÃÍè1J$2ae6d775-5a31-40d0-94fc-fe4526c2a0d1
+~	java:S125/"<This block of commented-out lines of code should be removed.(ÎĞ÷8ü±ÃÍè1J$a4f495f4-4845-4f10-89c8-65d944beb4a2
+ƒ	java:S1252"<This block of commented-out lines of code should be removed.(Î·ãòùÿÿÿÿ8ü±ÃÍè1J$33309b0e-7e7f-4194-8547-a07b35bcd3c4
+ƒ	java:S1258"<This block of commented-out lines of code should be removed.(¼Ö‰Àûÿÿÿÿ8ü±ÃÍè1J$66747860-cd43-41c2-83c3-e317d2a6069f
+~	java:S125J"<This block of commented-out lines of code should be removed.(Ã¡„Ä8ü±ÃÍè1J$03a426ba-f432-45dc-8a54-b83e67993d50
+t
+java:S1481L",Remove this unused "numbers" local variable.(·¶ğüÿÿÿÿ8ü±ÃÍè1J$43e7d862-0518-481c-85c1-20254afb0909
+l
+java:S1481M")Remove this unused "ages" local variable.(õ™Òó8ü±ÃÍè1J$2a017ee6-d687-45cb-9c3e-058d41c1924b
+~	java:S125O"<This block of commented-out lines of code should be removed.(Ñ¼‚·8ü±ÃÍè1J$1815a90d-1cac-4389-9afd-b1c2e86bd2cd
+ƒ	java:S125T"<This block of commented-out lines of code should be removed.(üŠ³Îøÿÿÿÿ8ü±ÃÍè1J$91209532-34a3-4074-8069-426f8cd3f345
+t
+java:S1481Z",Remove this unused "letters" local variable.(”ó¾¶øÿÿÿÿ8–ÖÄÍè1J$3d69e865-4166-4a7a-be3c-32ae72bb8f07
+m	java:S106`"+Replace this use of System.out by a logger.(µˆœÑ8ò’ÄÍè1J$a00398a8-a24d-4df5-b3bd-940c3309e1ac
+~	java:S125b"<This block of commented-out lines of code should be removed.(Ì›€ã8ı±ÃÍè1J$6b789623-e903-4db6-9ac3-2b92e5a42522
+s
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8ş±ÃÍè1J$1bf78ed5-3efc-498d-8ad1-a7d9a61c2227
+r
+java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8ş±ÃÍè1J$febc5e5b-d194-4340-9206-7c42784fcc58
+€
+java:S1128	"8Remove this unused import 'java.util.stream.LongStream'.(óœñıÿÿÿÿ8ş±ÃÍè1J$0cf2878f-0ec6-4a3b-8b0e-5a9b71c47105
+w
+java:S1128
+"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8ş±ÃÍè1J$66031827-651f-430e-a77c-043e0137d93c
+ƒ
+java:S1128";Remove this unused import 'org.example.dataStructures.Pet'.(ëÓŸäûÿÿÿÿ8ş±ÃÍè1J$f1df05f6-c9d0-4c7b-a4dc-c5c1a554d35c

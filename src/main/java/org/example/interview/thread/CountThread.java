@@ -7,7 +7,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 public class CountThread implements Runnable {
   AtomicInteger x;
   Semaphore semaphore;
-  Exchanger<String> ex = new Exchanger<String>();
+  Exchanger<String> ex = new Exchanger<>();
   String message;
 
   public CountThread(AtomicInteger x, Semaphore semaphore) {
