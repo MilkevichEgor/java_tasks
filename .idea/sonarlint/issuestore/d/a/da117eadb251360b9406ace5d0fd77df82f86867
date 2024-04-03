@@ -1,0 +1,6 @@
+
+”
+java:S1192"LDefine a constant instead of duplicating this literal "Hello World" 3 times.(ŠüÊâúÿÿÿÿ8Ý¾Éðé1J$ac3d0828-ec77-4ec4-bf72-4215f7ac45a8
+m	java:S106"+Replace this use of System.out by a logger.(ò¬ Å8«¼Àðé1J$9ee451f4-5fe2-4d86-831b-cd5a3133b66c
+r	java:S106$"+Replace this use of System.out by a logger.(©´£Öÿÿÿÿÿ8®¼Àðé1J$9ef66e94-62c6-49e5-879f-12ac0f6247fd
+r	java:S106,"+Replace this use of System.out by a logger.(ùî‘õúÿÿÿÿ8±¼Àðé1J$21004f1f-74ce-4ae3-a397-afa15053a719
