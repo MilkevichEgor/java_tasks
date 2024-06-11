@@ -149,8 +149,6 @@ Osrc/main/java/org/example/designpatterns/structuralpatterns/AdapterPattern.java
 Nsrc/main/java/org/example/designpatterns/structuralpatterns/BridgePattern.java,f/f/ff5c9820f4084defc7b0e6df4bfd141e1cf1e1da
 Å
 Qsrc/main/java/org/example/designpatterns/structuralpatterns/CompositePattern.java,e/0/e00fa8e54c63053dc845efd3b0bbdac5433e4bce
-y
-Isrc/main/java/org/example/designpatterns/structuralpatterns/Assignee.java,9/d/9de9e0e4941f6c9e59743259657b9c2ec9d4104a
 Å
 Qsrc/main/java/org/example/designpatterns/structuralpatterns/DecoratorPattern.java,5/3/5358ff058b939f1b62ae94d528cf009a2586edf1
 ~
@@ -159,3 +157,13 @@ Nsrc/main/java/org/example/designpatterns/structuralpatterns/FacadePattern.java
 Qsrc/main/java/org/example/designpatterns/structuralpatterns/FlyweightPattern.java,8/1/81e1bb96c27bee2a12fb4fe6691a213eeb21ec05
 }
 Msrc/main/java/org/example/designpatterns/structuralpatterns/ProxyPattern.java,e/7/e7d22e2ffa9ceb2d34461329b8ba27714afef818
+e
+5src/main/java/org/example/interfacetest/Airplane.java,a/0/a09bf3a0a7bc28585793770e3ca04e235c0a434d
+q
+Asrc/main/java/org/example/interfacetest/TransportWorkService.java,e/f/efa064c7b736b5788ecf0aee444ed0fd0b14d10e
+g
+7src/main/java/org/example/interfacetest/CarService.java,4/0/40ec8a97230a7880cc5251381b6d7d0dd85c691c
+r
+Bsrc/main/java/org/example/interview/tasks/MergeTwoSortedLists.java,b/1/b14747a1a4e8ea6956c9a349ce2cbb6bd254e83d
+\
+,src/main/java/org/example/other/Recurse.java,f/9/f9f3a091b9a1c7b741c18d3bd4f6479146845c4a

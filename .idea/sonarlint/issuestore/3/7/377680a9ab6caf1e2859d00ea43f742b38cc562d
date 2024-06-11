@@ -1,9 +1,7 @@
 
-i
-java:S3973"GUse indentation to denote the code conditionally executed by this "if".(ûœ±Åùÿÿÿÿ8èÕÅ¡Õ1
-L
-java:S1611"/Remove the parentheses around the "n" parameter(ãÀâû8óÕÅ¡Õ1
-G	java:S106	"+Replace this use of System.out by a logger.(‚Ğ¥¿8ôÕÅ¡Õ1
-L
-java:S1611"/Remove the parentheses around the "n" parameter(ä‡‹í8Œ¡Ú¡Õ1
-L	java:S106"+Replace this use of System.out by a logger.(¯í™½øÿÿÿÿ8¡Ú¡Õ1
+
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(ûœ±Åùÿÿÿÿ8èÕÅ¡Õ1J$4817dd9e-c980-4e6a-b2ef-6d99538dccd9
+m	java:S106	"+Replace this use of System.out by a logger.(‚Ğ¥¿8ôÕÅ¡Õ1J$4067d475-ca74-4e7b-b3af-145f72e255ea
+r
+java:S1611"/Remove the parentheses around the "n" parameter(ä‡‹í8Œ¡Ú¡Õ1J$73366a5c-1c04-4e74-84bf-54804c40ec22
+r	java:S106"+Replace this use of System.out by a logger.(¯í™½øÿÿÿÿ8¡Ú¡Õ1J$116f36dc-dc6a-45f0-bd0f-6e4a2c45beed

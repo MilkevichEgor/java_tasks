@@ -1,6 +1,6 @@
 package org.example.interfacetest;
 
-public class Car implements ITest {
+class Car  {
 	private String name;
 	private String model;
 	private String color;
@@ -10,16 +10,5 @@ public class Car implements ITest {
 		this.model = model;
 		this.color = color;
 	}
-
-
-  @Override
-  public void start() {
-	  System.out.println("Car started");
-  }
-
-  @Override
-  public void stop() {
-	  System.out.println("Car stopped");
-  }
 
 }

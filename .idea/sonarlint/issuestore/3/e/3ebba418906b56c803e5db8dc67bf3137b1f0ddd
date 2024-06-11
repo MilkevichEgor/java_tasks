@@ -1,11 +1,8 @@
 
-i
-java:S3973#"GUse indentation to denote the code conditionally executed by this "if".(ûœ±Åùÿÿÿÿ8±í¥¢Õ1
-W
-java:S1118":Add a private constructor to hide the implicit public one.(Åß»Ê8¹í¥¢Õ1
-U
-java:S1854"8Remove this useless assignment to local variable "user".(çÛ•¢8£·§¢Õ1
-G	java:S106"+Replace this use of System.out by a logger.(âÂ¤ˆ8¼í¥¢Õ1
-G	java:S106"+Replace this use of System.out by a logger.(†æÃÔ8¼í¥¢Õ1
-F
-java:S1481")Remove this unused "user" local variable.(çÛ•¢8¥·§¢Õ1
+
+java:S3973#"GUse indentation to denote the code conditionally executed by this "if".(ûœ±Åùÿÿÿÿ8±í¥¢Õ1J$1d8ad4a2-8023-4f94-9e5b-d17e2010b45b
+}
+java:S1118":Add a private constructor to hide the implicit public one.(Åß»Ê8¹í¥¢Õ1J$06cb8206-1ce0-43ff-b1e3-044f2cbf4769
+m	java:S106"+Replace this use of System.out by a logger.(âÂ¤ˆ8¼í¥¢Õ1J$b97e67ea-0dae-43be-a661-89c4924ce668
+m	java:S106"+Replace this use of System.out by a logger.(†æÃÔ8¼í¥¢Õ1J$178394e0-3c6f-42ba-8cf4-fda8120093e3
+r	java:S106"+Replace this use of System.out by a logger.(„£õòùÿÿÿÿ8ÃûÍ·€2J$7915d435-6319-4cca-8596-82299e3f520c

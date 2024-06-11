@@ -43,6 +43,6 @@ public class RemoveDuplicatesFromSortedList {
       }
       return sb.toString();
     }
-}
+  }
 
 }

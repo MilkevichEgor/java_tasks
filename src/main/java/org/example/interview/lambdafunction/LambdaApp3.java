@@ -5,7 +5,7 @@ class ExpressionHelper{
 
   static boolean isEven(int n){
 
-	return n%2 == 0;
+	return n % 2 == 0;
   }
 
   static boolean isPositive(int n){
@@ -25,13 +25,13 @@ public class LambdaApp3 {
 
 	UserBuilder userBuilder = User::new;
 	User user = userBuilder.create("John");
+	System.out.println(user.getName());
   }
 
   private static int sum (int[] numbers, Expression func)
   {
 	int result = 0;
-	for(int i : numbers)
-	{
+	for(int i : numbers) {
 	  if (func.isEqual(i))
 		result += i;
 	}

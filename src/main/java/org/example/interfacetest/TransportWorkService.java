@@ -1,6 +1,6 @@
 package org.example.interfacetest;
 
-public class TransportWork implements ITest {
+public class TransportWorkService implements ITest {
 	@Override
 	public void start() {
 		System.out.println("Transport started");
