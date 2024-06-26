@@ -1,4 +1,8 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(çª‘ìüÿÿÿÿ8Ä÷Ï‹Ú1J$64ff769c-424b-4101-aa39-23c4a7e2a88e
+r	java:S106"+Replace this use of System.out by a logger.(çª‘ìüÿÿÿÿ8Šúã·2J$bf86d278-9365-4896-a462-8b129e344576
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8úã·2J$5771c12e-055b-48d5-95d2-89ccfdbbc038
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8úã·2J$23376c74-9842-47ea-8881-b2e4e4bc1b12
 r
-java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8Æ‹»¶Ú1J$8bc4a4e0-423a-458a-921f-d124ce5a7c4c
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8úã·2J$315ee462-3127-4290-a8d4-ff9497c6e888

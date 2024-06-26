@@ -214,6 +214,7 @@ public class Main {
 
       List<String> list3 = Arrays.asList("abc1", "abc2", "abc3");
 
+      // Lazy evaluation
       Optional<String> streamLazy = list3.stream().filter(element -> {
         System.out.println("filter() was called");
         return element.contains("2");

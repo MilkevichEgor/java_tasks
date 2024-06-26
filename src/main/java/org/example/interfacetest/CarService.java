@@ -2,7 +2,7 @@ package org.example.interfacetest;
 
 public class CarService {
 
-	private TransportWorkService transportWorkService;
+	private ITest transportWorkService;
 
 	public CarService(TransportWorkService transportWorkService) {
 		this.transportWorkService = transportWorkService;

@@ -1,19 +1,19 @@
 
 r	java:S106
-"+Replace this use of System.out by a logger.(τΖυΝϊÿÿÿÿ8‘ζ€ρι1J$02bb5f87-eea8-40ce-84c4-d9c5961ec223
+"+Replace this use of System.out by a logger.(τΖυΝϊÿÿÿÿ8‘ζ€ρι1J$269feb6b-158a-4d84-ab01-a61ead159d84
 
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¬™€„ώÿÿÿÿ8Ίϋπι1J$7c456f26-a756-4d89-b676-04664ab7bb41
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¬™€„ώÿÿÿÿ8Ίϋπι1J$ae8f2c6b-5587-434f-ae6d-4d5562593490
 
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(™¨θ8Ίϋπι1J$dcbdcba9-6317-47e9-9759-614538012c97
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(™¨θ8Ίϋπι1J$74c5147e-72c5-415e-a4d1-8fa172097d34
 
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ύÿ‚®ωÿÿÿÿ8Ίϋπι1J$cc57c771-6cb1-4956-b968-5f097174eb03
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ύÿ‚®ωÿÿÿÿ8Ίϋπι1J$80878702-54c4-4999-924f-c0284459dc3f
 
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ΦΙΒάϋÿÿÿÿ8ζ€ρι1J$9341ee0e-6844-495a-ba7f-01e07f0fb979
-r	java:S106$"+Replace this use of System.out by a logger.(ªέ „ώÿÿÿÿ8‘ζ€ρι1J$1113167a-a84a-432a-9161-8452bd701a47
-r	java:S106)"+Replace this use of System.out by a logger.(ΌΕÿϊύÿÿÿÿ8’ζ€ρι1J$99700226-9daa-4e8f-b92d-4e77fc9ef4d4
-m	java:S106."+Replace this use of System.out by a logger.(Ι­Ξκ8’ζ€ρι1J$d2455428-f2bc-4b7f-8f09-a7d28fb8e796
-r	java:S1063"+Replace this use of System.out by a logger.(¥ν¦ϊψÿÿÿÿ8“ζ€ρι1J$06c9e25f-962a-453d-b076-6ba7e241e0a9
-l	java:S106:"+Replace this use of System.out by a logger.(βΈά\8”ζ€ρι1J$61ee3a76-a627-4e52-9f48-786237ffd059
-m	java:S106?"+Replace this use of System.out by a logger.(µσΨΌ8”ζ€ρι1J$373f7ee3-eba0-4755-9baf-2cd46bf76df0
-r	java:S106D"+Replace this use of System.out by a logger.(Θή·ÿωÿÿÿÿ8•ζ€ρι1J$70d26e65-4257-49f9-9be7-ed9756c0c0ce
-m	java:S106I"+Replace this use of System.out by a logger.(τεύΥ8ήΉƒρι1J$67fe200e-766b-4169-9b80-b8fa913e5034
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ΦΙΒάϋÿÿÿÿ8ζ€ρι1J$dd734329-0dad-4351-ba03-745ba720319f
+r	java:S106$"+Replace this use of System.out by a logger.(ªέ „ώÿÿÿÿ8‘ζ€ρι1J$b49ca8fb-b079-49af-800e-ef2434ea9d2a
+r	java:S106)"+Replace this use of System.out by a logger.(ΌΕÿϊύÿÿÿÿ8’ζ€ρι1J$585f2c22-8d0a-45b1-960d-97b4eb564163
+m	java:S106."+Replace this use of System.out by a logger.(Ι­Ξκ8’ζ€ρι1J$fdde6fec-22d9-49de-af5a-338ba30d3892
+r	java:S1063"+Replace this use of System.out by a logger.(¥ν¦ϊψÿÿÿÿ8“ζ€ρι1J$d2410498-a6c3-4ada-8109-d91b3f840ff8
+l	java:S106:"+Replace this use of System.out by a logger.(βΈά\8”ζ€ρι1J$881b7290-89d3-4b59-b918-59bbc660262d
+m	java:S106?"+Replace this use of System.out by a logger.(µσΨΌ8”ζ€ρι1J$51ee0b18-e94c-4d61-877b-510f50132f9f
+r	java:S106D"+Replace this use of System.out by a logger.(Θή·ÿωÿÿÿÿ8•ζ€ρι1J$bf558bd5-5ed4-4b33-b67a-e1246d142cdb
+m	java:S106I"+Replace this use of System.out by a logger.(τεύΥ8ήΉƒρι1J$6ea874cf-58ce-4680-a48b-3d6b0297269d

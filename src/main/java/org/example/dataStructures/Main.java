@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class Main {
   public static void main(String[] args) throws FileNotFoundException {
-
+    
     Map<String, Person> map = new HashMap<>();
     Scanner in = new Scanner(new File("input.txt"));
     int n = in.nextInt();
@@ -46,6 +46,10 @@ public class Main {
 
       System.out.println(map.get(firstName + " " + secondName).getProfession());
 
+      map.forEach((key, value) -> {
+          System.out.println(value.getProfession());
+        
+      });
 
 //      for (Person person : sortedList) {
 //        if (person.getFirstName().equals(firstName) && person.getSecondName().equals(secondName)) {

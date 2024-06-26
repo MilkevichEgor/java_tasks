@@ -1,6 +1,6 @@
 package org.example.designpatterns.structuralpatterns;
 
-public class ProxyPattern {
+public class  ProxyPattern {
   public static void main(String[] args) {
 
 	SecurityProxy securityProxy = new SecurityProxy(new ResourceImpl());

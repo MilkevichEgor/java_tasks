@@ -1,6 +1,6 @@
 package org.example.designpatterns.generativepatterns;
 
-public class SingletonPattern {
+public class  SingletonPattern {
   public static void main(String[] args) {
 
 	President president = President.getInstance();

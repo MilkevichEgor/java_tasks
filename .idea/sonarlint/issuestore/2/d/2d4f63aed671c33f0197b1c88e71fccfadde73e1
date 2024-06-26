@@ -1,0 +1,10 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(öÈÛ¡8ìÑÑÚ‚2J$4fa08ef1-13af-48cf-96c2-3759efb8c4bd
+~	java:S125"<This block of commented-out lines of code should be removed.(áèŞ—8íÑÑÚ‚2J$24528bbc-4508-47bf-88b2-606faadc7036
+ƒ	java:S125#"<This block of commented-out lines of code should be removed.(¬„Ó¸şÿÿÿÿ8ƒÈÒÚ‚2J$326444fc-e397-4a29-9603-d4ed5dadf116
+m	java:S106-"+Replace this use of System.out by a logger.(øñ÷Á8íÑÑÚ‚2J$480c3bae-2357-4fbf-a2e9-1ce63ebcdb7f
+m	java:S1067"+Replace this use of System.out by a logger.(øñ÷Á8îÑÑÚ‚2J$c373f0a3-245c-4ed5-892f-cfe91690ce1c
+m	java:S106F"+Replace this use of System.out by a logger.(á¦Ğå8ïÑÑÚ‚2J$0f5a9dd9-dd2c-4a99-96a0-166724646ebb
+m	java:S106X"+Replace this use of System.out by a logger.(‹ƒ³À8ïÑÑÚ‚2J$a422a2e0-e5d6-4204-ab29-45c8d56b24b2
+~
+java:S1128"6Remove this unused import 'javax.swing.tree.TreeNode'.(š­©Òûÿÿÿÿ8ğÑÑÚ‚2J$0b6dcc7b-bd0b-46b3-884f-c0abfb0846c5

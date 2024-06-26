@@ -16,7 +16,7 @@ public class MediatorPattern {
 
 interface ChatRoomMediator {
 
-  public void showMessage(String message, User user);
+  void showMessage(String message, User user);
 }
 
 class ChatRoom implements ChatRoomMediator {

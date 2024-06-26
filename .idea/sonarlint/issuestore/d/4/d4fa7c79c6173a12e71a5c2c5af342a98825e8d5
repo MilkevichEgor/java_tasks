@@ -1,0 +1,10 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(ãœ­…8‘òð¥…2
+P
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(ëñ–¿8”òð¥…2
+L	java:S106"+Replace this use of System.out by a logger.(¥¡û¼ýÿÿÿÿ8”òð¥…2
+I
+java:S3011",This accessibility update should be removed.(Ó«§¯8–òð¥…2
+W	java:S125$"<This block of commented-out lines of code should be removed.(¶ÞÙ8—òð¥…2
+G	java:S1063"+Replace this use of System.out by a logger.(´»ê8˜òð¥…2

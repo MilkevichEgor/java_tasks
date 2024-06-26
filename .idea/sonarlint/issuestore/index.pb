@@ -167,3 +167,7 @@ r
 Bsrc/main/java/org/example/interview/tasks/MergeTwoSortedLists.java,b/1/b14747a1a4e8ea6956c9a349ce2cbb6bd254e83d
 \
 ,src/main/java/org/example/other/Recurse.java,f/9/f9f3a091b9a1c7b741c18d3bd4f6479146845c4a
+d
+4src/main/java/org/example/algorithms/BinaryTree.java,2/d/2d4f63aed671c33f0197b1c88e71fccfadde73e1
+_
+/src/main/java/org/example/other/Reflection.java,d/4/d4fa7c79c6173a12e71a5c2c5af342a98825e8d5
